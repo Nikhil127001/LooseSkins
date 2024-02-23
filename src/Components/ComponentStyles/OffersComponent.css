@@ -1,0 +1,22 @@
+.OffersOuter{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+   width : 100%;
+   padding: 10px;
+}
+
+#OffersInner{
+    width: 95%;
+    background-color: #F0F0F0;
+    padding: 5px;
+}
+
+#offersInput{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+}

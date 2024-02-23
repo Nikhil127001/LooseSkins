@@ -1,0 +1,18 @@
+.addressSelectOuter{
+    
+    min-width: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+    
+}
+
+.addressSelectInner{
+    width:  98%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    font-weight: 600;
+    color: grey;
+    flex-wrap: wrap;
+}
